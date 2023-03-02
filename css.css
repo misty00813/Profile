@@ -1,0 +1,19 @@
+section{
+    border-width: 8px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 8px;
+    padding: 16px;
+    font-size: 24px;
+    margin-bottom: 8px;
+    background-image: url(background.webp);
+    color: azure;
+}
+
+body{
+    text-align: center;
+}
+
+footer{
+    font-size: 16px;
+}
